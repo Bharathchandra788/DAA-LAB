@@ -10,6 +10,7 @@
  like Merge Sort and Quick Sort provide better performance.
 
 
+                    PRACTICAL 3
           Summary
 
 The practical was completed successfully by following the required steps.
@@ -21,3 +22,19 @@ Conclusion
 The practical helped in understanding the concept and its implementation.
 The results obtained were satisfactory and matched the expected outcome.
 Overall, the practical improved my understanding of the topic.
+
+
+
+
+                PRACTICAL 4
+
+
+                Summary:
+I successfully completed the practical by following the given procedure.
+I learned how to implement and analyze the algorithm.
+The results helped me understand the topic more clearly.
+
+Conclusion:
+The practical was completed successfully and the expected results were obtained.
+It improved my knowledge of the algorithm and its working.
+Overall, it was a useful learning experience.
